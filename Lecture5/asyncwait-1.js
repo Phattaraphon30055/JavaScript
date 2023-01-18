@@ -12,4 +12,6 @@ async function run() {
     console.log("Stop!!");
 }
 
+console.log('Before run');
 run();
+console.log('After run');
