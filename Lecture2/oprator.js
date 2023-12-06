@@ -4,4 +4,4 @@ let z = x*y ;
 let a = x**y;
 
 document.getElementById("demo1").innerHTML = z;
-document.getElementById("demo2").innerHTML = a
+document.getElementById("demo2").innerHTML = a;
