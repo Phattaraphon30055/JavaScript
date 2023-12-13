@@ -1,7 +1,7 @@
-function evallEquation(word){
-    return eval(word);
+function  calculateEquation(word){
+    return calculate(word);
 }
-    console.log(evallEquation("1+1"));
-    console.log(evallEquation("7*4-2"));
-    console.log(evallEquation("1+1+1+1+1"));
+    console.log(calculateEquation("1+1"));
+    console.log(calculateEquation("7*4-2"));
+    console.log(calculateEquation("1+1+1+1+1"));
     

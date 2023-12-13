@@ -7,4 +7,4 @@ let f = plusFive ;
 //
 console.log (plusFive(3)); //8
 //
-console.log(f(9));  //9
+console.log(f(9));  //14
