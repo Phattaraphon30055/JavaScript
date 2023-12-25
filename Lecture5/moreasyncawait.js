@@ -23,9 +23,9 @@ function where() {
 }
 
 async function msg() {
-    const a = await who();
+    const a =  await who();
     const b = await what();
-    const c = await where();
+    const c =  await where();
 
     console.log(`${a} ${b} ${c}`);
 }
