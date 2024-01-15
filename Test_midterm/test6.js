@@ -1,4 +1,3 @@
-//remove dupicale form array
 
 function removeDupe(arrayDupe) {
 
